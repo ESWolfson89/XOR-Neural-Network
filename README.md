@@ -12,3 +12,9 @@ Prints final edge weights.
 Fails on 100000 training iterations.
 
 Trapping in local minimum can occur. Correct result not always produced.
+
+
+Sample output:
+
+
+![Alt text](sampleoutput.png?raw=true "SampleOutput")
