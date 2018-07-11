@@ -495,9 +495,6 @@ void network::reportResults()
         std::cout << "edge weight: hidden node " << h << " to output node -> " << hidden_neurons[h].getEdge(0)->getWeight() << "\n";
     }
 
-    std::cin.get();
-    std::cin.get();
-
     std::cout << "Termination successful.\n";
 }
 
